@@ -5,7 +5,7 @@ This Terraform script automates the provisioning of infrastructure resources in 
 ## Requirements
 
 - [Terraform](https://www.terraform.io/downloads.html): Terraform must be installed on your local machine.
-- Snowflake Account(https://www.snowflake.com/en/) : You need access to a Snowflake account with appropriate permissions to create and manage resources.
+- [Snowflake Account](https://www.snowflake.com/en/): You need access to a Snowflake account with appropriate permissions to create and manage resources.
   - Account ID: Your Snowflake account ID is required for authentication.
   - Username: Snowflake username for authentication.
   - Password: Password associated with the Snowflake user account.
